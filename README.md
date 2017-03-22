@@ -10,8 +10,10 @@ For running this sample you will need to have Eclipse Software.
 <<<< Environment Setup  >>>>>>>
 1. Eclipse software is required to run the files for this example.
 2. You can download the Eclipse version 4.5 from the Internet  OR the setup file is given in the attachments.
-3. Download the JAR file and Import the same file in the eclipse under new Project.
-4. Run the Project.
+3. There are 3 ways to see the application working.
+3.1 Download the JAR file and Import the same file in the eclipse under new Project and RUN the project.
+3.2 Download the .ZIP file and extract the whole Project folder and Open the project in the Eclipse and Run the Project.
+3.3 Download the JAVA file which is just a class and open it under Package called "Package1" in a blank project, Run the project.
 
 
 
